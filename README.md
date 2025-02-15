@@ -37,12 +37,6 @@ This project generates and solves a maze using the **Depth-First Search (DFS) al
 ![image](https://github.com/user-attachments/assets/e0d97607-2f60-4967-8151-bf49583e52a8)
 
 
-## 🤝 Contributing
-Feel free to fork this repository and improve the code! If you find any issues, create a pull request or open an issue.
 
-## 📜 License
-This project is licensed under the MIT License.
 
----
-Let me know if you want to add anything specific! 🚀
 
